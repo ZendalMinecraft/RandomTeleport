@@ -1,4 +1,4 @@
-#RandomTeleport
+# RandomTeleport
 
 ### Plugin for Bukkit/Spigot core.
 
