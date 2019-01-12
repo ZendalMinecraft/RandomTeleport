@@ -4,6 +4,7 @@
 
 > Testing only on 1.13.2
 
+[DOWNLOAD LAST VERSION](https://github.com/ZendalMinecraft/RandomTeleport/releases/download/v1.0/RandomTeleport.jar)
 
 ## Features
 * Only sign
